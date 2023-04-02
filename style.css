@@ -1,0 +1,28 @@
+body {
+    background-color: #d6f8ff;
+  }
+  div {
+    background-color: rgb(255, 255, 255);
+    font-family: inherit;
+    width: 320px;
+    padding: 16px;
+    margin: auto;
+    border-radius: 20px;
+  }
+  h1 {
+    font-family: inherit;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 10px;
+  }
+  img {
+    width: 100%;
+    border-radius: 20px;
+  }
+  p {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 14px;
+  }
+  
